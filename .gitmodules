@@ -1,0 +1,16 @@
+[submodule "C"]
+	path = C
+	url = https://github.com/SENODROOM/c.sa.git
+	branch = main
+[submodule "C++"]
+	path = C++
+	url = https://github.com/SENODROOM/cplusplus.sa.git
+	branch = main
+[submodule "Javascript"]
+	path = Javascript
+	url = https://github.com/SENODROOM/javascript.sa.git
+	branch = main
+[submodule "Python"]
+	path = Python
+	url = https://github.com/SENODROOM/python.sa.git
+	branch = main
