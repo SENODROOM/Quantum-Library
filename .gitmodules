@@ -14,3 +14,7 @@
 	path = Python
 	url = https://github.com/SENODROOM/python.sa.git
 	branch = main
+[submodule "Ruby"]
+	path = Ruby
+	url = https://github.com/SENODROOM/ruby.sa.git
+	branch = main
